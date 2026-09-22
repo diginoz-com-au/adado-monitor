@@ -3,7 +3,7 @@
 
 <h3 align="center">AdaDo Fork</h3>
 <p align="center"><em>Part of the AdaDo App Store — every app in the AdaDo ecosystem runs as a private, per-user isolated instance.</em></p>
-<p align="center"><a href="https://github.com/unknown/unknown">Upstream: unknown/unknown</a></p>
+<p align="center"><a href="https://github.com/louislam/uptime-kuma">Upstream: louislam/uptime-kuma</a></p>
 
 ---
 <!-- /adado:brand:v1 -->
